@@ -1,0 +1,4 @@
+/rust-trie/target/
+/rust-trie/Cargo.lock
+/python-trie/venv/
+/python-trie/__pycache__

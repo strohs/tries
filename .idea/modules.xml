@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/python-trie/python-trie.iml" filepath="$PROJECT_DIR$/python-trie/python-trie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rust-trie/rust-trie.iml" filepath="$PROJECT_DIR$/rust-trie/rust-trie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tries.iml" filepath="$PROJECT_DIR$/tries.iml" />
+    </modules>
+  </component>
+</project>
